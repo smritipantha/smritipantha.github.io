@@ -1,9 +1,7 @@
 ---
-title: "About"
+title: "About me"
 permalink: "/about/"
 layout: page
 ---
-
-## About me
 
 I am Smriti Pantha.
